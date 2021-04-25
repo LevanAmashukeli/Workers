@@ -1,0 +1,13 @@
+C:\Users\nucik\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.exe
+C:\Users\nucik\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.deps.json
+C:\Users\nucik\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.runtimeconfig.json
+C:\Users\nucik\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.runtimeconfig.dev.json
+C:\Users\nucik\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.dll
+C:\Users\nucik\source\repos\Workers\Workers\bin\Debug\netcoreapp3.1\Workers.pdb
+C:\Users\nucik\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.csprojAssemblyReference.cache
+C:\Users\nucik\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.AssemblyInfoInputs.cache
+C:\Users\nucik\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.AssemblyInfo.cs
+C:\Users\nucik\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.csproj.CoreCompileInputs.cache
+C:\Users\nucik\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.dll
+C:\Users\nucik\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.pdb
+C:\Users\nucik\source\repos\Workers\Workers\obj\Debug\netcoreapp3.1\Workers.genruntimeconfig.cache
